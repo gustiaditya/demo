@@ -1,0 +1,36 @@
+[
+	{
+		"id": "11",
+		"nama": "Kesehatan",
+        "deskripsi": "Topik yang menjadi point pembahasan adalah terkait dengan masalah kesehatan yang terdapat di daerah Kabupaten Buleleng",
+		"volume": "4",
+        "edisi": "3",
+        "tahun": "2021",
+		"name": "Erik Tohir",
+		"issn": "26209055",
+		"judul": "Mei - Juni",
+		"berita": "Bangkit dan Berjuan di masa pandemi Covid-19",
+		"redaksi": "Pandemi Covid-19 tidak membuat Pemerintah Kabupaten (Pemkab) Buleleng patah semangat. Justru sebaliknya tetap bertekad bekerja keras dan berjuang dalam berkarya dan berinovasi, karena karya dan inovasi ini merupakan wujud pelayanan kepada masyarakat. Sejalan dengan semangat Hari Kebangkitan Nasional, Pemkab Buleleng bahu membahu mewujudkan pembangunan dan prestasi serta berjuang melawan Covid-19. Sebagai hasilnya pengelolaan keuangan daerah Pemkab Buleleng kembali mendapat apresiasi dengan opini Wajar Tanpa Pengecualian (WTP) yang ke-tujuh dan Penghargaan Niwarsita Tantra yang ketiga kali berturut-turut. Melalui penerbitan Majalah Singa Manggala Vol.4 No.3, kami kembali menyapa para pembaca guna menginformasikan hasil-hasil pembangunan di Kabupaten Buleleng. Terbitan ketiga di tahun 2021 ini mengulas tema “Bangkit dan Berjuang di Tengah Pandemi Covid-19” Liputan utama menampilkan tulisan-tulisan yang mencerminkan kebangkitan dan perjuangan, salah satunya tercermin dalam tulisan “Jalan Panjang Menuju Nirwasita Tantra”. Selain liputan utama, disajikan pula muatan UMKM Buleleng, Kabar Desa, Produk Sobean, Dokumentasi Peristiwa, Kiprah Pemuda serta Artikel dan Opini. Semoga sajian kami bermanfaat dan dapat menginspirasi masyarakat dalam membangun Buleleng. Tetap tingkatkan sinergitas dan taati prokes untuk kemajuan Buleleng tercinta.",
+		"cover": "1.jpg",
+		"file": "no2.pdf",
+		"created_at": "2021-09-22 09:06:12",
+		"updated_at": "2021-09-22 09:06:12"
+	},
+	{
+		"id": "12",
+		"nama": "Nasionalis",
+        "deskripsi": "Topik yang menjadi point pembahasan adalah terkait dengan masalah nasionalisme yang terdapat di daerah Kabupaten Buleleng",
+		"volume": "4",
+        "edisi": "4",
+        "tahun": "2021",
+		"name": "Erik Tohir",
+		"issn": "26209055",
+		"judul": "Juli - Agustus",
+		"berita": "Indonesia Tangguh Indonesia Tumbuh dari Buleleng",
+		"redaksi": "Sahabat SIMA, sesuai dengan Tema HUT Kemerdekaan Republik Indonesia yang ke-76 yaitu “Indonesia Tangguh Indonesia Tumbuh”, tentunya memacu semangat kami untuk selalu meningkatkan kualitas majalah ini. Dalam masa pandemi yang masih berlangsung sampai saat ini, redaksi majalah Singa Manggala berupaya memberikan informasi terbaik. Tema majalah SIMA untuk terbitan kali ini adalah “Indonesia Tangguh Indonesia Tumbuh dari Buleleng”. Tentunya pengambilan tema ini, dengan harapan Buleleng bisa bangkit untuk Indonesia.",
+		"cover": "2.jpg",
+		"file": "no2.pdf",
+		"created_at": "2021-09-22 09:12:09",
+		"updated_at": "2021-09-22 09:12:09"
+	}
+]
